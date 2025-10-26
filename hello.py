@@ -1,5 +1,2 @@
 print("Hello gits")
-
-def function():
-    return "This is a new feature"
-    
+print("This version includes the old bug fix")
